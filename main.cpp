@@ -2,7 +2,7 @@
 
 void f()
 {
-    
+    return void();
 }
 
 int main()
