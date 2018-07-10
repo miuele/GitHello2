@@ -14,8 +14,10 @@ void h();
 
 int i()
 {
+    h();
     return 0;
 }
+
 
 int main()
 {
