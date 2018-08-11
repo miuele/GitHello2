@@ -13,7 +13,7 @@ Main Header
 Sub Header
 ----------
 
-never `using namespace std;` in global scope!
+Never `using namespace std;` in global scope!
 
 ---
 ^ horizontal line ^\
