@@ -6,6 +6,8 @@
 class Y
 {
 public:
+	X() = default;
+	virtual ~X() = default;
 	Y &operator=(Y const &) & = default;
 	Y &operator=(Y const &) && = delete;
 }
