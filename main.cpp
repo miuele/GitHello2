@@ -14,5 +14,5 @@ public:
 
 int main()
 {
-	std::cout << "hello world" << std::endl;
+	std::cout << "Hello world" << std::endl;
 }
